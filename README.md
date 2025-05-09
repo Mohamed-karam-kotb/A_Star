@@ -31,5 +31,4 @@ g++ A_Star.cpp main.cpp -o a_star
 #Running
 ./a.out
 Example :
-![image](https://github.com/user-attachments/assets/b19d877d-69e5-46f0-84c1-9b78bf491848)
-
+![Project Screenshot](screenshot.png)
