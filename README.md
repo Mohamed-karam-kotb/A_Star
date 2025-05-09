@@ -31,4 +31,4 @@ g++ A_Star.cpp main.cpp -o a_star
 #Running
 ./a.out
 Example :
-![A Star Example](A_Star/Selection_006.png)
+![A Star Example](Selection_006.png)
