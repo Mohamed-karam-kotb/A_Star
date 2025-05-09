@@ -30,5 +30,6 @@ To compile the project, run this command in the terminal:
 g++ A_Star.cpp main.cpp -o a_star
 #Running
 ./a.out
-Example :
+```
+# Example 
 ![A Star Example](Selection_006.png)
